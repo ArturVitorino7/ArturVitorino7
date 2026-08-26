@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=FFFFFF&background=000000&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Artur+Vitorino+;Seja+bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 ###
 
-<p data-importer="text" align="left">✨ Resolvendo problemas desde: 2025<br>📚 Estudando atualmente: ADS no Senai<br>🎯 Metas: Ser um grande DEV<br>🎲 Fun fact: Gosto de treinar e me desenvolver</p>
+<p data-importer="text" align="left">✨ Resolvendo problemas desde: 2025<br>📚 Estudando atualmente: ADS no Senai<br>🎯 Metas: Ser um grande DEV<br>🎲 Fato curioso: Gosto de treinar e me desenvolver</p>
 
 ###
 
