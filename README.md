@@ -9,7 +9,7 @@
 
 ###
 
-<div data-importer="techs" align="left">  />
+<div data-importer="techs" align="left"> 
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60">
 </div>
