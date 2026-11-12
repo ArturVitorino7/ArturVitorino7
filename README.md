@@ -7,6 +7,13 @@
 
 <h2 data-importer="text" align="left">Programo com</h2>
 
+
+<h2>🏆 Certificações</h2>
+
+<a href="https://github.com/ArturVitorino7/certificados/blob/main/certificado-linux-unhatched.pdf">
+  <img src="https://img.shields.io/badge/NDG-Linux_Unhatched-075A9C?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Unhatched">
+</a>
+
 ###
 
 <div data-importer="techs" align="left"> 
