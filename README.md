@@ -11,10 +11,11 @@
 
 <h2>🏆 Certificações</h2>
 
-<img src="https://raw.githubusercontent.com/ArturVitorino7/Certificados/main/linux-unhatched.png"
-     width="150"
-     alt="NDG Linux Unhatched">
-</a>
+<img
+  src="https://raw.githubusercontent.com/ArturVitorino7/Certificados/main/119c952b-ecb0-4d8a-9379-63f42009a914.png"
+  width="150"
+  alt="NDG Linux Unhatched"
+/>
 
 
 ###
