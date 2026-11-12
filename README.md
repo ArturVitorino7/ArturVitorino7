@@ -11,12 +11,13 @@
 
 <h2>🏆 Certificações</h2>
 
-<img
-  src="https://raw.githubusercontent.com/ArturVitorino7/Certificados/main/119c952b-ecb0-4d8a-9379-63f42009a914.png"
-  width="150"
-  alt="NDG Linux Unhatched"
-/>
-
+<a href="https://github.com/ArturVitorino7/Certificados/blob/main/Linux_Unhatched_certificate_artur-v-silva-edu-senai-br_93498438-f737-44c6-a966-eb0b955c6982.pdf">
+  <img
+    src="https://raw.githubusercontent.com/ArturVitorino7/Certificados/main/119c952b-ecb0-4d8a-9379-63f42009a914.png"
+    width="150"
+    alt="NDG Linux Unhatched"
+  />
+</a>
 
 ###
 
