@@ -11,10 +11,9 @@
 
 <h2>🏆 Certificações</h2>
 
-<a href="https://github.com/ArturVitorino7/certificados/blob/main/certificado-linux-unhatched.pdf">
-  <img src="https://raw.githubusercontent.com/ArturVitorino7/certificados/main/linux-unhatched.png"
-       width="150"
-       alt="Linux Unhatched - NDG">
+<img src="https://raw.githubusercontent.com/ArturVitorino7/Certificados/main/linux-unhatched.png"
+     width="150"
+     alt="NDG Linux Unhatched">
 </a>
 
 
