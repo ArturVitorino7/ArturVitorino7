@@ -1,13 +1,35 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=FFFFFF&background=000000&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Artur+Vitorino+;Seja+bem+vindo+ao+meu+perfil" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=FFFFFF&background=000000&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Artur+Vitorino+;Seja+bem+vindo+ao+meu+perfil"
+  alt="Typing SVG" />
+</a>
+
 ###
 
-<p data-importer="text" align="left">✨ Resolvendo problemas desde: 2025<br>📚 Estudando atualmente: ADS no Senai<br>🎯 Metas: Ser um grande DEV<br>🎲 Fato curioso: Gosto de treinar e me desenvolver</p>
+<p align="left">
+  ✨ Resolvendo problemas desde: 2025<br>
+  📚 Estudando atualmente: ADS no Senai<br>
+  🎯 Metas: Ser um grande DEV<br>
+  🎲 Fato curioso: Gosto de treinar e me desenvolver
+</p>
 
 ###
 
-<h2 data-importer="text" align="left">Programo com</h2>
+<h2 align="left">💻 Programo com</h2>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       alt="Java" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+       alt="C++" width="60" />
+</p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=58A6FF&width=500&lines=Transformando+ideias+em+c%C3%B3digo...;Java+%2B+C%2B%2B+%3D+Aprendizado+constante!;Um+bug+de+cada+vez%2C+um+projeto+de+cada+vez."
+       alt="Mensagem sobre programação" />
+</p>
+
+###
 
 <h2>🏆 Certificações</h2>
 
@@ -21,13 +43,6 @@
 
 ###
 
-<div data-importer="techs" align="left"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60">
-  <img width="12" />
-</div>
-
-          
-###
 ## 🐍 Minhas Contribuições
 
 <picture>
